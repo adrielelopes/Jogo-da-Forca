@@ -19,11 +19,11 @@ public class Palavras {
 	} 
 	
 // Métodos
-	public String inserirPalavra() {
+	/*public String inserirPalavra() {
 		
 	}
 	
 	public palavraCompleta() {
 		
-	} 
+	} */
 }

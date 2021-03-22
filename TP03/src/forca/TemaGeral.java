@@ -21,7 +21,7 @@ public class TemaGeral {
 	
 // Métodos 
 	
-	public String sortearPalavra() {
+	/*public String sortearPalavra() {
 		
-	}
+	}*/
 }

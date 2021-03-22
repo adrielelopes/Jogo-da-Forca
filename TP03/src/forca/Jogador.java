@@ -18,7 +18,7 @@ public class Jogador {
 		
 	}
 	
-	public char chutarLetra() {
+	/*public char chutarLetra() {
 		
-	}
+	}*/
 }

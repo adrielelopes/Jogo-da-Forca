@@ -24,8 +24,8 @@ public abstract class Temas {
 	
 // Métodos
 	
-	public String sortearPalavra() {
+	/*public String sortearPalavra() {
 	
-	}
+	}*/
 	
 }
