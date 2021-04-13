@@ -1,27 +1,31 @@
-package forca;
+package modelo;
 
-public class TemaGeral {
-	private String tema = "Geral";
-	private Palavras[] listaPalavras = new Palavras[2];
+public abstract class Temas {
+	protected String tema;
+	protected Palavras[] listaPalavras; 
 	
-//Gets e Setters 
+	
+// Gets e Setters 
 	public String getTema() {
 		return tema;
 	}
+
 	public void setTema(String tema) {
 		this.tema = tema;
 	}
+
 	public Palavras[] getListaPalavras() {
 		return listaPalavras;
 	}
+
 	public void setListaPalavras(Palavras[] listaPalavras) {
 		this.listaPalavras = listaPalavras;
 	}
 	
-	
-// Métodos 
+// Métodos
 	
 	public String sortearPalavra() {
-		
+	
 	}
+	
 }

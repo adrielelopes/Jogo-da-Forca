@@ -1,4 +1,4 @@
-package forca;
+package modelo;
 
 public class Palavras {
 	private String palavraSorteada; 

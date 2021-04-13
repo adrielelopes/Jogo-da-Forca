@@ -1,4 +1,4 @@
-package forca;
+package modelo;
 
 public abstract class Lingua {
 	protected String alfabeto;
