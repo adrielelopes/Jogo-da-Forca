@@ -14,11 +14,11 @@ public class Jogador {
 	}
 
 // Métodos 
-	public void escolherTema() {
+	/*public void escolherTema() {
 		
 	}
 	
 	public char chutarLetra() {
 		
-	}
+	}*/
 }
